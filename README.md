@@ -29,7 +29,7 @@ When naming your app, it is strongly advised you do not use "WhatsApp" anywhere 
 - Create an [**Android**](https://github.com/WhatsApp/stickers/issues/new?template=android.md) issue
 - Create a [**general issue**](https://github.com/WhatsApp/stickers/issues/new?template=general.md)
 
-_For all three options, fill in all fields that apply._
+_For all two options, fill in all fields that apply._
 
 ## Opening Pull Requests
 
