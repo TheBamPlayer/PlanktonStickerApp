@@ -1,27 +1,19 @@
 # WhatsApp Stickers
 
 ![Works with Android](https://img.shields.io/badge/Works_with-Android-green?style=flat-square)
-![Works with iOS](https://img.shields.io/badge/Works_with-iOS-blue?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/whatsapp/stickers?style=flat-square)
 
-> This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
+> This repository contains the Android sample app and API for creating third party sticker packs for WhatsApp.
 
-If you'd like to create your own [stickers for WhatsApp](https://faq.whatsapp.com/en/android/26000227/), you can package them in an Android or iOS app. 
+If you'd like to create your own [stickers for WhatsApp](https://faq.whatsapp.com/en/android/26000227/), you can package them in an Android app. 
 
 For Android users, you can publish your sticker app to the [Google Play Store](https://play.google.com/store) and users who download and install your app will be able to start sending those stickers right away from within WhatsApp. 
-For iOS developers please read the [IMPORTANT NOTICE ABOUT iOS APPS](#please-read-important-notice-about-ios-apps) section.
 
 **Stickers on WhatsApp must be legal, authorized and acceptable.** Learn more about acceptable uses of our services from our [Terms of Service](https://www.whatsapp.com/legal/#terms-of-service).
 
 ## Get started :rocket:
 
-To get started, review the `README` files in the [Android](https://github.com/WhatsApp/stickers/tree/master/Android) or [iOS](https://github.com/WhatsApp/stickers/tree/master/iOS) folders, and refer to the [FAQ](https://faq.whatsapp.com/general/26000226).
-
-## PLEASE READ: IMPORTANT NOTICE ABOUT iOS APPS
-
-With Apple’s strict App Store review policy, we recommend iOS developers to submit apps that contain more functionality than to simply export stickers. This will increase the chances of the app being accepted. As an alternative to creating an iOS app, there are various sticker maker apps that help you create and import stickers into WhatsApp.
-
-The sample iOS app is an example of how to use our API to import stickers into WhatsApp and can serve as a guide on how to get started, but it is not meant to be used as a template for your app because it will not be accepted by Apple.
+To get started, review the `README` files in the [Android](https://github.com/WhatsApp/stickers/tree/master/Android) folder, and refer to the [FAQ](https://faq.whatsapp.com/general/26000226).
 
 ## Announcements :loudspeaker:
 Please check out [Announcements](https://github.com/WhatsApp/stickers/wiki/Animated-Stickers) for recent changes.
@@ -35,7 +27,6 @@ When naming your app, it is strongly advised you do not use "WhatsApp" anywhere 
 > For support, please contact <developer@support.whatsapp.com>.
 
 - Create an [**Android**](https://github.com/WhatsApp/stickers/issues/new?template=android.md) issue
-- Create an [**iOS**](https://github.com/WhatsApp/stickers/issues/new?template=ios.md) issue
 - Create a [**general issue**](https://github.com/WhatsApp/stickers/issues/new?template=general.md)
 
 _For all three options, fill in all fields that apply._
